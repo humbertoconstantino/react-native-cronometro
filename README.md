@@ -7,13 +7,13 @@
 <br>
 
 <p align="center">
-  Cronômetro
+  Cronômetro /  StopWatch
 </p>
 
 <p align="center">
-  <img alt="StopWatch" src=".github/0.png" width="100%">
-  <img alt="StopWatch" src=".github/1.png"" width="100%">
-  <img alt="StopWatch" src=".github/2.png" width="100%">
+  <img alt="StopWatch" src=".github/0.png" width="30%">
+  <img alt="StopWatch" src=".github/1.png"" width="30%">
+  <img alt="StopWatch" src=".github/2.png" width="30%">
   
 </p>
 
@@ -27,4 +27,4 @@ Technologies used in the project:
 ## 💻 Project
 
 This is a stopwatch application that works on Android and IOS.
-Whith recourses of go and stop.
+With recourses of go and stop.
